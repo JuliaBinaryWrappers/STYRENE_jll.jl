@@ -1,0 +1,288 @@
+[[STYRENE]]
+arch = "aarch64"
+git-tree-sha1 = "edd7a765e6ec1a4baef1b9123b3b238ca6af11ef"
+os = "macos"
+
+    [[STYRENE.download]]
+    sha256 = "3e4a54100be043df57c115eac7853bef986cfc25d735fde7a8b2e2bf01f72434"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[STYRENE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a7b5100169ad9c25365102e1fc092336d00d7edd"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "ee409dc24d68f10cad872909af06f1b940aeafd6fbedd0f950c32a509f77066a"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[STYRENE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54cbf31df3d755ff8d248e2bca95a6dfc1362bd0"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "6a42c534217c0c85070c3f877e9da261ca5c0f51ba3dffa3373c722dd42c7c83"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[STYRENE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e93e4d6fdfb7cd1df2b021ee46e9c2c96773a5b3"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "6868faa7d44b127cce2db6b50f5a844d3f5639caedd39528ddb1203f8e8ec8c2"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[STYRENE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb6ef6eac8cac9721f3e38c3b4b1a6587b834716"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "f7c73f9e42ee133ae9366e32907ca82b6d39ae94ac353baf2578577a93732d8b"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[STYRENE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2f1ef5f2414b288230730dde44261ea74b2437b9"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "6c5ba12241de4192d238fd4e62f6d108da0c1ccf9ddd08ba25219cffa7d34088"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[STYRENE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4949ffb5698d885ac4010799ef335712d7e54eea"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "dd98b8b6ad161c7cc466eb4ee448445b999f21641a2c3eb41e79b40e00afa04d"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[STYRENE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9902e8fbe1dc5805c0ea80106e8a90a3516710cc"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "332a2a1c3e1f21eb9d6f8138b09b9ca0aa13232c0305edc432be2efcd78e8254"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[STYRENE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac63186e0fe2797a0948f033e0de82ff6c8bee2e"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "1992c69e5cfdf843d3f50bbc0d532eba87c1526c37e97795e4baa3d28c974011"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[STYRENE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e133b89347659f860e7ec1c56f6473e9d000a4d"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "953f3ed418ad62e566563d77e051e7a913b211725725c1957885346dc09f84e0"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[STYRENE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5889a70a7d20a23c0a8aeb9601024f37f2076374"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "4f63d9424d00d87afd1790c55270f984932cd19730186d1cdaf606c2170e6978"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[STYRENE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6eec19ed445f302afb51b08c85cf9662834d0989"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "01959c1a1ecbbbf104daef64a1d2eb4e6498c3ef0d218a0022a5f4afec727e06"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[STYRENE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d40727685251726dac8153442f7551dd385bbfb6"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "715739493e4f06a35ac314b3a96f3b8da98cf208ac082f3e431fcbd61c9029c6"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[STYRENE]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "184b01cc2653d2b5ea2fc25f65359331de960af1"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "201812c5fdd0311ce809d3d14554b8dadba7dfd0bf587ffbe207450e10fea0dd"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[STYRENE]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e18daadcd4d9972fc2972049befc70381169b06"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "356496b7eec1e3dae9bb219975cdd6a6e55a024d2744e847db37e0c83c28b376"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[STYRENE]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e231d38753d1462708efa69ff07d08debc4a1c9"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "4e4e7cd93c3c6da229820617d7d8b12f70a3612147c1d3862e67a1f6c9dca806"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[STYRENE]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e928887a59241dbca791ea84427444a337c20bd5"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "b05df5a650fc265e983c62124300303398419940bc0213d4be0c124d1b1c4bca"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[STYRENE]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c183ba3927c52d261771f2c23e79d2746b909c18"
+os = "windows"
+
+    [[STYRENE.download]]
+    sha256 = "1c1ed6063fae12336ad9232c6f4db104f9e55e9a089e024485bd648652424b6d"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[STYRENE]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "da22209154052cc2ba9fd441d7e46b0c301316ba"
+os = "windows"
+
+    [[STYRENE.download]]
+    sha256 = "f3934ffecb4f469c1e9e47791e7c987778ad530dc5760cdcfb68a137ebb5d1db"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[STYRENE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e40f7c0de5e62c5be1ba46d970415b935b812b71"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "9764789d10af60786c4423d004768451b73517b94971af61c17f9e46a4dd727a"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[STYRENE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48e4424e4e2d288a81a4e52703986709ccdca979"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "f45878cbc99ea60c8d5d5216c5c8035d43edea4f6e0e91284edf3d5c01fe2b8e"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[STYRENE]]
+arch = "x86_64"
+git-tree-sha1 = "505bca2184ec32ea2a76f8e7647fc2e2ff7a9910"
+os = "macos"
+
+    [[STYRENE.download]]
+    sha256 = "76e66a1e08a8d7279d42f37038f893f6e127406a68c992559a95bb6d612cbafc"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[STYRENE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a46d23c00c93733b6b6724d92aaad6e709dd8f1c"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "5eebda5cab3fc894f8db237f09c198ba259425e35d5cc16f207e7bed6ac9aaa7"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[STYRENE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "615ab5dfce63ad8ecbfd2503a482c5d33c422aa8"
+libc = "glibc"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "d60b363d8ddf1ebd6da3c1a1330249d6eff839681a1d97b33034288a921c79f9"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[STYRENE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5ea38074191a24081a0f8ee0a22a756b0d6b1ee5"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "754dcf45866bee7b32b910a3581e7c4cfbb9d52038fb3f6f8bd962051808c4a1"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[STYRENE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a5e0ae00ceeb6513e3773b644e88fbeca97f7b1c"
+libc = "musl"
+os = "linux"
+
+    [[STYRENE.download]]
+    sha256 = "6f43aa266655bcffb87d3a520de5fc50c057ea37fb2b82fd2abe73838012e3d0"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[STYRENE]]
+arch = "x86_64"
+git-tree-sha1 = "823c9aa3c51c79206ba1b08b65bdc056f35ac4a2"
+os = "freebsd"
+
+    [[STYRENE.download]]
+    sha256 = "661c503a142f0c56772086270c0ea508ac8ae47c75005afd1fa090e850307a02"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[STYRENE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9d2c3d9f0e0d4e3d04a67fce90a164da8805dd45"
+os = "windows"
+
+    [[STYRENE.download]]
+    sha256 = "6c5527b8c60b878db12884939fce7537d0c2b90ae9ba85d320f3cc2bf50def42"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[STYRENE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a1a5b24efd50ad10d9a55cb4d5ee7234483f4f58"
+os = "windows"
+
+    [[STYRENE.download]]
+    sha256 = "e818bf7fa4b8a8788841dd1f2f8a678b7e074de8ea773101008aa6797b0073fd"
+    url = "https://github.com/JuliaBinaryWrappers/STYRENE_jll.jl/releases/download/STYRENE-v0.1.0+0/STYRENE.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
